@@ -10,8 +10,11 @@
 
     <bean id="musicBean"
           class = "ru.siarheyeu.springcourse.ClassicalMusic">
-
     </bean>
 
+    <bean id = "musicPlayer"
+          class = "ru.siarheyeu.springcourse.MusicPlayer">
+        <constructor-arg ref = "musicBean"/>
+    </bean>
 
 </beans>
