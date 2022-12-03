@@ -59,7 +59,7 @@
     &quot;spring.configuration.checksum&quot;: &quot;2b94ef84da38a3ccb0fff1b3b13c7c17&quot;
   }
 }</component>
-  <component name="RunManager" selected="JAR Application.spring-aop-6.0.2.jar">
+  <component name="RunManager">
     <configuration name="All in spring-app2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-app2" />
       <option name="PACKAGE_NAME" value="" />
@@ -101,7 +101,8 @@
       <workItem from="1669823126195" duration="1907000" />
       <workItem from="1669826435674" duration="3075000" />
       <workItem from="1669926599541" duration="645000" />
-      <workItem from="1670012595080" duration="646000" />
+      <workItem from="1670012595080" duration="1415000" />
+      <workItem from="1670096529433" duration="1176000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1669754149716</created>
@@ -124,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669927182412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Dependency Injection 2.1">
+      <created>1670014558509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670014558509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +142,7 @@
     <MESSAGE value="final" />
     <MESSAGE value="MusicPlayer" />
     <MESSAGE value="Dependency Injection 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection 1" />
+    <MESSAGE value="Dependency Injection 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection 2.1" />
   </component>
 </project>
