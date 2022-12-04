@@ -11,15 +11,17 @@
     <context:property-placeholder location="classpath:musicPlayer.properties"/>
 
     <bean id="musicBean"
-          class = "ru.siarheyeu.springcourse.ClassicalMusic">
+          class = "ru.siarheyeu.springcourse.ClassicalMusic"
+          init-method="doMyInit"
+          destroy-method="doMyDestroy">
     </bean>
 
-    <bean id = "musicPlayer"
-          class = "ru.siarheyeu.springcourse.MusicPlayer"
-         scope = "prototype">
-        <property name = "music" ref = "musicBean"/>
-        <property name="name" value="${musicPlayer.name}"/>
-        <property name="volume" value="${musicPlayer.volume}"/>
-    </bean>
+<!--    <bean id = "musicPlayer"-->
+<!--          class = "ru.siarheyeu.springcourse.MusicPlayer"-->
+<!--          scope = "prototype">-->
+<!--        <property name = "music" ref = "musicBean"/>-->
+<!--        <property name="name" value="${musicPlayer.name}"/>-->
+<!--        <property name="volume" value="${musicPlayer.volume}"/>-->
+<!--    </bean>-->
 
 </beans>

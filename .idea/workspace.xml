@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b83211d-6206-4e4f-84d7-21ac7248d988" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/ClassicalMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
@@ -104,7 +105,7 @@
       <workItem from="1669926599541" duration="645000" />
       <workItem from="1670012595080" duration="1415000" />
       <workItem from="1670096529433" duration="2344000" />
-      <workItem from="1670160800785" duration="950000" />
+      <workItem from="1670160800785" duration="2725000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1669754149716</created>
@@ -148,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670100422151</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Bean scope">
+      <created>1670161903853</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670161903853</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +169,7 @@
     <MESSAGE value="Dependency Injection 2.1" />
     <MESSAGE value="Dependency Injection 2.2" />
     <MESSAGE value="Dependency Injection 2.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection 2.3" />
+    <MESSAGE value="Bean scope" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bean scope" />
   </component>
 </project>
