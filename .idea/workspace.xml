@@ -7,9 +7,8 @@
     <list default="true" id="5b83211d-6206-4e4f-84d7-21ac7248d988" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/ClassicalMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/RockMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/MusicPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +105,8 @@
       <workItem from="1669926599541" duration="645000" />
       <workItem from="1670012595080" duration="1415000" />
       <workItem from="1670096529433" duration="2344000" />
-      <workItem from="1670160800785" duration="4366000" />
+      <workItem from="1670160800785" duration="5304000" />
+      <workItem from="1670233835684" duration="1287000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1669754149716</created>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670164375227</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Annotation @Component">
+      <created>1670165960422</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670165960422</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +193,7 @@
     <MESSAGE value="Dependency Injection 2.3" />
     <MESSAGE value="Bean scope" />
     <MESSAGE value="Bean Lifecycle 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bean Lifecycle 1" />
+    <MESSAGE value="Annotation @Component" />
+    <option name="LAST_COMMIT_MESSAGE" value="Annotation @Component" />
   </component>
 </project>
