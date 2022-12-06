@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b83211d-6206-4e4f-84d7-21ac7248d988" name="Changes" comment="Annotation @Autowired, Dependency injection via setter">
-      <change afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/Computer.java" afterDir="false" />
+    <list default="true" id="5b83211d-6206-4e4f-84d7-21ac7248d988" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/ClassicalMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/MusicPlayer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +106,7 @@
       <workItem from="1670160800785" duration="5304000" />
       <workItem from="1670233835684" duration="2068000" />
       <workItem from="1670247894000" duration="1205000" />
-      <workItem from="1670316126459" duration="1686000" />
+      <workItem from="1670316126459" duration="3335000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1669754149716</created>
@@ -187,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670235379762</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Annotation @Autowired, Dependency injection 2">
+      <created>1670320118019</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670320118019</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +209,7 @@
     <MESSAGE value="Bean Lifecycle 1" />
     <MESSAGE value="Annotation @Component" />
     <MESSAGE value="Annotation @Autowired, Dependency injection via setter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Annotation @Autowired, Dependency injection via setter" />
+    <MESSAGE value="Annotation @Autowired, Dependency injection 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Annotation @Autowired, Dependency injection 2" />
   </component>
 </project>
