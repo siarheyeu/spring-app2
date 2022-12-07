@@ -7,6 +7,8 @@
     <list default="true" id="5b83211d-6206-4e4f-84d7-21ac7248d988" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ru/siarheyeu/springcourse/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +108,8 @@
       <workItem from="1670160800785" duration="5304000" />
       <workItem from="1670233835684" duration="2068000" />
       <workItem from="1670247894000" duration="1205000" />
-      <workItem from="1670316126459" duration="3335000" />
+      <workItem from="1670316126459" duration="3690000" />
+      <workItem from="1670407861513" duration="1019000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1669754149716</created>
@@ -192,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670320118019</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Annotation @Qualifier, Dependency injection">
+      <created>1670322735171</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670322735171</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +220,7 @@
     <MESSAGE value="Annotation @Component" />
     <MESSAGE value="Annotation @Autowired, Dependency injection via setter" />
     <MESSAGE value="Annotation @Autowired, Dependency injection 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Annotation @Autowired, Dependency injection 2" />
+    <MESSAGE value="Annotation @Qualifier, Dependency injection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Annotation @Qualifier, Dependency injection" />
   </component>
 </project>

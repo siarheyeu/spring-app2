@@ -6,9 +6,20 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class MusicPlayer {
-@Autowired
+    @Value("${musicPlayer.name}")
+private String name;
+    @Value("${musicPlayer.volume}")
+private int volume;
 
-   private Music music1;
+    public String getName() {
+        return name;
+    }
+
+    public int getVolume() {
+        return volume;
+    }
+
+    private Music music1;
    private Music music2;
 
    @Autowired
